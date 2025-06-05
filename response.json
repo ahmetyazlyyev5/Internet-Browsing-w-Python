@@ -1,0 +1,649 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "response": {
+        "docs": [
+            {
+                "abstract": "The man behind a program that lets you trick apps like Strava with fake workouts is trying to make a larger point. “I feel like I’m poking at a very real problem,” he said.",
+                "byline": {
+                    "original": "By Scott Cacciola"
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Why Would Someone Fake Their Run?",
+                    "kicker": "",
+                    "print_headline": ""
+                },
+                "_id": "nyt://article/8c38b34e-8965-5567-b745-6878c29b4341",
+                "keywords": [
+                    {
+                        "name": "Subject",
+                        "value": "Running",
+                        "rank": 1
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Exercise",
+                        "rank": 2
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Social Media",
+                        "rank": 3
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "Strava Inc",
+                        "rank": 4
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Mobile Applications",
+                        "rank": 5
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Hoaxes and Pranks",
+                        "rank": 6
+                    }
+                ],
+                "multimedia": {
+                    "caption": "Runners have used apps like Strava to track their runs for years. A new website called Fake My Run lets them create falsified records that look just like the real thing.",
+                    "credit": "Elizabeth Weinberg for The New York Times",
+                    "default": {
+                        "url": "https://static01.nyt.com/images/2025/05/27/multimedia/27FAKE-MY-RUN-kgwz/27FAKE-MY-RUN-kgwz-articleLarge.jpg",
+                        "height": 400,
+                        "width": 600
+                    },
+                    "thumbnail": {
+                        "url": "https://static01.nyt.com/images/2025/05/27/multimedia/27FAKE-MY-RUN-kgwz/27FAKE-MY-RUN-kgwz-thumbStandard.jpg",
+                        "height": 75,
+                        "width": 75
+                    }
+                },
+                "news_desk": "Styles",
+                "print_page": "",
+                "print_section": "",
+                "pub_date": "2025-05-29T13:00:07Z",
+                "section_name": "Style",
+                "snippet": "The man behind a program that lets you trick apps like Strava with fake workouts is trying to make a larger point. “I feel like I’m poking at a very real problem,” he said.",
+                "source": "The New York Times",
+                "subsection_name": "",
+                "type_of_material": "News",
+                "uri": "nyt://article/8c38b34e-8965-5567-b745-6878c29b4341",
+                "web_url": "https://www.nytimes.com/2025/05/29/style/fake-my-run-strava.html",
+                "word_count": 1128
+            },
+            {
+                "abstract": "Plus, join our creativity challenge.",
+                "byline": {
+                    "original": "By Emmett Lindner"
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Friday Briefing: Trump Battles the Court",
+                    "kicker": "",
+                    "print_headline": ""
+                },
+                "_id": "nyt://article/837eeb81-835a-595f-bd73-ad6846da4b96",
+                "keywords": [],
+                "multimedia": {
+                    "caption": "",
+                    "credit": "Karsten Moran for The New York Times",
+                    "default": {
+                        "url": "https://static01.nyt.com/images/2025/05/29/multimedia/30ambriefing-asia-tariffs/30ambriefing-asia-tariffs-articleLarge.jpg",
+                        "height": 600,
+                        "width": 600
+                    },
+                    "thumbnail": {
+                        "url": "https://static01.nyt.com/images/2025/05/29/multimedia/30ambriefing-asia-tariffs/29int-global-tariffs-lqpf-thumbStandard.jpg",
+                        "height": 75,
+                        "width": 75
+                    }
+                },
+                "news_desk": "NYTNow",
+                "print_page": "",
+                "print_section": "",
+                "pub_date": "2025-05-29T21:00:33Z",
+                "section_name": "Briefing",
+                "snippet": "Plus, join our creativity challenge.",
+                "source": "The New York Times",
+                "subsection_name": "",
+                "type_of_material": "briefing",
+                "uri": "nyt://article/837eeb81-835a-595f-bd73-ad6846da4b96",
+                "web_url": "https://www.nytimes.com/2025/05/29/briefing/trump-tariffs-court-russia-ukraine-china-uyghurs.html",
+                "word_count": 1271
+            },
+            {
+                "abstract": "Here’s what you need to know.",
+                "byline": {
+                    "original": "By Natasha Frost"
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Friday Briefing",
+                    "kicker": "",
+                    "print_headline": ""
+                },
+                "_id": "nyt://article/1f4d771b-22a3-5124-88e2-7e91b4182968",
+                "keywords": [],
+                "multimedia": {
+                    "caption": "President Trump announcing new tariffs at the White House in April.",
+                    "credit": "Haiyun Jiang for The New York Times",
+                    "default": {
+                        "url": "https://static01.nyt.com/images/2025/04/04/multimedia/30ambriefing-europe-tariff/30ambriefing-europe-tariff-articleLarge.jpg",
+                        "height": 900,
+                        "width": 600
+                    },
+                    "thumbnail": {
+                        "url": "https://static01.nyt.com/images/2025/04/04/multimedia/30ambriefing-europe-tariff/30ambriefing-europe-tariff-thumbStandard.jpg",
+                        "height": 75,
+                        "width": 75
+                    }
+                },
+                "news_desk": "NYTNow",
+                "print_page": "",
+                "print_section": "",
+                "pub_date": "2025-05-30T05:04:18Z",
+                "section_name": "Briefing",
+                "snippet": "Here’s what you need to know.",
+                "source": "The New York Times",
+                "subsection_name": "",
+                "type_of_material": "briefing",
+                "uri": "nyt://article/1f4d771b-22a3-5124-88e2-7e91b4182968",
+                "web_url": "https://www.nytimes.com/2025/05/30/briefing/trump-tariffs-uyghurs.html",
+                "word_count": 1240
+            },
+            {
+                "abstract": "Mounting criticism of Israel.",
+                "byline": {
+                    "original": "By Natasha Frost"
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Thursday Briefing",
+                    "kicker": "",
+                    "print_headline": ""
+                },
+                "_id": "nyt://article/a4692e61-3aca-5023-ad92-c35d8000584f",
+                "keywords": [],
+                "multimedia": {
+                    "caption": "A crowd stormed a food warehouse in central Gaza on Wednesday.",
+                    "credit": "Eyad Baba/Agence France-Presse — Getty Images",
+                    "default": {
+                        "url": "https://static01.nyt.com/images/2025/05/28/multimedia/29ambriefing-gaza-aid/29ambriefing-gaza-aid-articleLarge.jpg",
+                        "height": 600,
+                        "width": 600
+                    },
+                    "thumbnail": {
+                        "url": "https://static01.nyt.com/images/2025/05/28/multimedia/29ambriefing-gaza-aid/28vid-gaza-aid-cover-gztj-thumbStandard.jpg",
+                        "height": 75,
+                        "width": 75
+                    }
+                },
+                "news_desk": "NYTNow",
+                "print_page": "",
+                "print_section": "",
+                "pub_date": "2025-05-29T05:10:02Z",
+                "section_name": "Briefing",
+                "snippet": "Mounting criticism of Israel.",
+                "source": "The New York Times",
+                "subsection_name": "",
+                "type_of_material": "briefing",
+                "uri": "nyt://article/a4692e61-3aca-5023-ad92-c35d8000584f",
+                "web_url": "https://www.nytimes.com/2025/05/29/briefing/israel-criticism-ukraine-germany.html",
+                "word_count": 1439
+            },
+            {
+                "abstract": "Also, ISIS claimed responsibility for attacks in Syria. Here’s the latest at the end of Friday.",
+                "byline": {
+                    "original": "By Matthew Cullen"
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Trump Bids Farewell to Musk",
+                    "kicker": "",
+                    "print_headline": ""
+                },
+                "_id": "nyt://article/b788f929-aba4-52d4-9d77-3c3655d2aaf7",
+                "keywords": [],
+                "multimedia": {
+                    "caption": "Elon Musk at the Oval Office today.",
+                    "credit": "Haiyun Jiang for The New York Times",
+                    "default": {
+                        "url": "https://static01.nyt.com/images/2025/05/30/multimedia/30evening-musk/30evening-musk-articleLarge.jpg",
+                        "height": 600,
+                        "width": 600
+                    },
+                    "thumbnail": {
+                        "url": "https://static01.nyt.com/images/2025/05/30/multimedia/30evening-musk/30trump-news-header-conf-fjmq-thumbStandard.jpg",
+                        "height": 75,
+                        "width": 75
+                    }
+                },
+                "news_desk": "NYTNow",
+                "print_page": "",
+                "print_section": "",
+                "pub_date": "2025-05-30T21:53:13Z",
+                "section_name": "Briefing",
+                "snippet": "Also, ISIS claimed responsibility for attacks in Syria. Here’s the latest at the end of Friday.",
+                "source": "The New York Times",
+                "subsection_name": "",
+                "type_of_material": "News",
+                "uri": "nyt://article/b788f929-aba4-52d4-9d77-3c3655d2aaf7",
+                "web_url": "https://www.nytimes.com/2025/05/30/briefing/trump-musk-oval-office-china-us-trade.html",
+                "word_count": 1305
+            },
+            {
+                "abstract": "A.I. has yet to upend Hollywood. But it is starting to make big inroads in animation.",
+                "byline": {
+                    "original": "By Brooks Barnes"
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "What if Making Cartoons Becomes 90% Cheaper?",
+                    "kicker": "",
+                    "print_headline": "Cartoons Now Take Shape With Tireless Helping Hands"
+                },
+                "_id": "nyt://article/2ae5e959-0aff-5a8f-b615-4c305395dc93",
+                "keywords": [
+                    {
+                        "name": "Subject",
+                        "value": "Artificial Intelligence",
+                        "rank": 1
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Animated Films",
+                        "rank": 2
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Cartoons and Cartoonists",
+                        "rank": 3
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Movies",
+                        "rank": 4
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Television",
+                        "rank": 5
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Web-Original Programming",
+                        "rank": 6
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Computers and the Internet",
+                        "rank": 7
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Video Recordings, Downloads and Streaming",
+                        "rank": 8
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Start-ups",
+                        "rank": 9
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "vis-photo",
+                        "rank": 10
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "vis-video",
+                        "rank": 11
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "vis-multimedia",
+                        "rank": 12
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "Toonstar (Feldspar Studios Inc)",
+                        "rank": 13
+                    },
+                    {
+                        "name": "Title",
+                        "value": "StEvEn & Parker (Web-Original Program)",
+                        "rank": 14
+                    },
+                    {
+                        "name": "Person",
+                        "value": "Attanasio, John",
+                        "rank": 15
+                    },
+                    {
+                        "name": "Person",
+                        "value": "Huang, Luisa",
+                        "rank": 16
+                    }
+                ],
+                "multimedia": {
+                    "caption": "",
+                    "credit": "",
+                    "default": {
+                        "url": "https://static01.nyt.com/images/2025/04/14/14visualUploader-75672-cover/14visualUploader-75672-cover-articleLarge-v2.jpg",
+                        "height": 338,
+                        "width": 600
+                    },
+                    "thumbnail": {
+                        "url": "https://static01.nyt.com/images/2025/04/14/14visualUploader-75672-cover/14visualUploader-75672-cover-thumbStandard-v2.jpg",
+                        "height": 75,
+                        "width": 75
+                    }
+                },
+                "news_desk": "SundayBusiness",
+                "print_page": "6",
+                "print_section": "BU",
+                "pub_date": "2025-05-21T09:00:20Z",
+                "section_name": "Business",
+                "snippet": "A.I. has yet to upend Hollywood. But it is starting to make big inroads in animation.",
+                "source": "The New York Times",
+                "subsection_name": "Media",
+                "type_of_material": "News",
+                "uri": "nyt://article/2ae5e959-0aff-5a8f-b615-4c305395dc93",
+                "web_url": "https://www.nytimes.com/2025/05/21/business/media/ai-cartoons-animation.html",
+                "word_count": 2360
+            },
+            {
+                "abstract": "Israel’s troops have repeatedly shot near food distribution sites.",
+                "byline": {
+                    "original": "By Lauren Jackson"
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Deadly Aid Deliveries in Gaza",
+                    "kicker": "",
+                    "print_headline": ""
+                },
+                "_id": "nyt://article/1e9627c3-3a10-51a9-9a26-674ce33761ef",
+                "keywords": [
+                    {
+                        "name": "Subject",
+                        "value": "internal-storyline-no",
+                        "rank": 1
+                    },
+                    {
+                        "name": "Location",
+                        "value": "Gaza Strip",
+                        "rank": 2
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Humanitarian Aid",
+                        "rank": 3
+                    },
+                    {
+                        "name": "Location",
+                        "value": "Israel",
+                        "rank": 4
+                    },
+                    {
+                        "name": "Location",
+                        "value": "Rafah (Gaza Strip)",
+                        "rank": 5
+                    },
+                    {
+                        "name": "Organization",
+                        "value": "Hamas",
+                        "rank": 6
+                    }
+                ],
+                "multimedia": {
+                    "caption": "In Jabaliya, Gaza. ",
+                    "credit": "Saher Alghorra for The New York Times",
+                    "default": {
+                        "url": "https://static01.nyt.com/images/2025/06/04/multimedia/04themorning-nl-GAZA-01-bjpc/04themorning-nl-GAZA-01-bjpc-articleLarge.jpg",
+                        "height": 525,
+                        "width": 600
+                    },
+                    "thumbnail": {
+                        "url": "https://static01.nyt.com/images/2025/06/04/multimedia/04themorning-nl-GAZA-01-bjpc/04themorning-nl-GAZA-01-bjpc-thumbStandard.jpg",
+                        "height": 75,
+                        "width": 75
+                    }
+                },
+                "news_desk": "NYTNow",
+                "print_page": "",
+                "print_section": "",
+                "pub_date": "2025-06-04T10:48:35Z",
+                "section_name": "Briefing",
+                "snippet": "Israel’s troops have repeatedly shot near food distribution sites.",
+                "source": "The New York Times",
+                "subsection_name": "",
+                "type_of_material": "briefing",
+                "uri": "nyt://article/1e9627c3-3a10-51a9-9a26-674ce33761ef",
+                "web_url": "https://www.nytimes.com/2025/06/04/briefing/gaza-aid-shootings.html",
+                "word_count": 1936
+            },
+            {
+                "abstract": "I live in D.C., and I’ve always cherished my friends and neighbors who signed on for public service. Now they’re being chased out of town.",
+                "byline": {
+                    "original": "By Jillian Weinberger"
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Living Among the DOGE Wreckage",
+                    "kicker": "Guest Essay",
+                    "print_headline": "Living Amid the DOGE Wreckage"
+                },
+                "_id": "nyt://article/14ad3c40-7b85-5454-bb55-ba0e5309db4b",
+                "keywords": [
+                    {
+                        "name": "Organization",
+                        "value": "Government Efficiency Department (US)",
+                        "rank": 1
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Government Employees",
+                        "rank": 2
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "United States Politics and Government",
+                        "rank": 3
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Layoffs and Job Reductions",
+                        "rank": 4
+                    }
+                ],
+                "multimedia": {
+                    "caption": "",
+                    "credit": "Iris Legendre",
+                    "default": {
+                        "url": "https://static01.nyt.com/images/2025/06/01/opinion/01weinberger/26weinberger-articleLarge.jpg",
+                        "height": 600,
+                        "width": 600
+                    },
+                    "thumbnail": {
+                        "url": "https://static01.nyt.com/images/2025/06/01/opinion/01weinberger/26weinberger-thumbStandard.jpg",
+                        "height": 75,
+                        "width": 75
+                    }
+                },
+                "news_desk": "OpEd",
+                "print_page": "8",
+                "print_section": "SR",
+                "pub_date": "2025-05-27T09:01:41Z",
+                "section_name": "Opinion",
+                "snippet": "I live in D.C., and I’ve always cherished my friends and neighbors who signed on for public service. Now they’re being chased out of town.",
+                "source": "The New York Times",
+                "subsection_name": "",
+                "type_of_material": "Op-Ed",
+                "uri": "nyt://article/14ad3c40-7b85-5454-bb55-ba0e5309db4b",
+                "web_url": "https://www.nytimes.com/2025/05/27/opinion/do-gooders-washington-doge.html",
+                "word_count": 1072
+            },
+            {
+                "abstract": "A new Times project wants us to nurture our creative side.",
+                "byline": {
+                    "original": "By Tom Wright-Piersanti"
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Get Creative",
+                    "kicker": "",
+                    "print_headline": "To Nurture Your Creative Side, Get Curious"
+                },
+                "_id": "nyt://article/75492804-0a7d-5351-992b-30d9a0683e00",
+                "keywords": [
+                    {
+                        "name": "Subject",
+                        "value": "internal-storyline-no",
+                        "rank": 1
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Creativity",
+                        "rank": 2
+                    }
+                ],
+                "multimedia": {
+                    "caption": "",
+                    "credit": "Erik Winkowski",
+                    "default": {
+                        "url": "https://static01.nyt.com/images/2025/06/03/well/30evening-well/27WELL-CREATIVITY-SIGNUP-static-articleLarge.jpg",
+                        "height": 901,
+                        "width": 600
+                    },
+                    "thumbnail": {
+                        "url": "https://static01.nyt.com/images/2025/06/03/well/30evening-well/27WELL-CREATIVITY-SIGNUP-static-thumbStandard.jpg",
+                        "height": 75,
+                        "width": 75
+                    }
+                },
+                "news_desk": "NYTNow",
+                "print_page": "2",
+                "print_section": "A",
+                "pub_date": "2025-06-01T11:53:49Z",
+                "section_name": "Briefing",
+                "snippet": "A new Times project wants us to nurture our creative side.",
+                "source": "The New York Times",
+                "subsection_name": "",
+                "type_of_material": "briefing",
+                "uri": "nyt://article/75492804-0a7d-5351-992b-30d9a0683e00",
+                "web_url": "https://www.nytimes.com/2025/06/01/briefing/creativity-challenge.html",
+                "word_count": 2003
+            },
+            {
+                "abstract": "\u200bIn my 22 years as a Harvard professor, I have not been afraid to bite the hand that feeds me. So I’m hardly an apologist when I say the invective aimed at Harvard has become unhinged.",
+                "byline": {
+                    "original": "By Steven Pinker"
+                },
+                "document_type": "article",
+                "headline": {
+                    "main": "Harvard Derangement Syndrome",
+                    "kicker": "Guest Essay",
+                    "print_headline": "Is America Really Better Off if Harvard Gets Crushed?"
+                },
+                "_id": "nyt://article/645c413f-ef71-5f2d-ad48-8885441fd37d",
+                "keywords": [
+                    {
+                        "name": "Organization",
+                        "value": "Harvard University",
+                        "rank": 1
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Colleges and Universities",
+                        "rank": 2
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Academic Freedom",
+                        "rank": 3
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Anti-Semitism",
+                        "rank": 4
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Freedom of Speech and Expression",
+                        "rank": 5
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Foreign Students (in US)",
+                        "rank": 6
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Pro-Palestinian Campus Protests (2023- )",
+                        "rank": 7
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Endowments",
+                        "rank": 8
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Federal Aid (US)",
+                        "rank": 9
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "Research",
+                        "rank": 10
+                    },
+                    {
+                        "name": "Person",
+                        "value": "Trump, Donald J",
+                        "rank": 11
+                    },
+                    {
+                        "name": "Subject",
+                        "value": "United States Politics and Government",
+                        "rank": 12
+                    }
+                ],
+                "multimedia": {
+                    "caption": "",
+                    "credit": "Lisa Sheehan",
+                    "default": {
+                        "url": "https://static01.nyt.com/images/2025/05/23/opinion/23Pinker/23Pinker-articleLarge.jpg",
+                        "height": 895,
+                        "width": 600
+                    },
+                    "thumbnail": {
+                        "url": "https://static01.nyt.com/images/2025/05/23/opinion/23Pinker/23Pinker-thumbStandard.jpg",
+                        "height": 75,
+                        "width": 75
+                    }
+                },
+                "news_desk": "OpEd",
+                "print_page": "6",
+                "print_section": "SR",
+                "pub_date": "2025-05-23T09:02:04Z",
+                "section_name": "Opinion",
+                "snippet": "\u200bIn my 22 years as a Harvard professor, I have not been afraid to bite the hand that feeds me. So I’m hardly an apologist when I say the invective aimed at Harvard has become unhinged.",
+                "source": "The New York Times",
+                "subsection_name": "",
+                "type_of_material": "Op-Ed",
+                "uri": "nyt://article/645c413f-ef71-5f2d-ad48-8885441fd37d",
+                "web_url": "https://www.nytimes.com/2025/05/23/opinion/harvard-university-trump-administration.html",
+                "word_count": 4107
+            }
+        ],
+        "metadata": {
+            "hits": 10000,
+            "offset": 0,
+            "time": 206
+        }
+    }
+}
